@@ -1,0 +1,3 @@
+[submodule "mostro"]
+	path = mostro
+	url = https://github.com/MostroP2P/mostro
